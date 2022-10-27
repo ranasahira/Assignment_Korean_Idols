@@ -6,5 +6,7 @@ Link to the GitHub repository: https://github.com/ranasahira/Assignment_Korean_I
 The name of the kubeflow server containing the repository folder: rana-sheila-task
 
 List of your team member:
+
 72287 - Rana Sahira Siti Rachelia
+
 72289 - Sheila Ikhwani
